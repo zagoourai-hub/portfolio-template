@@ -34,3 +34,4 @@ portfolio/screenshots/
 Thumbs.db
 *.log
 .mcp.json
+/image.png

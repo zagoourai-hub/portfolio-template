@@ -54,7 +54,7 @@ export const projects = [
       "Pake Vanilla JS & CSS grid layout. Data disimpan di LocalStorage biar tetep keseed pas browser ditutup tanpa butuh server.",
     outcome:
       "Dipakai temen sekelas buat ngatur tugas mingguan. Dapet insight penting tentang manajemen state browser native.",
-    image: "/image.png",
+    image: "/images/studio-work.png",
     imageAlt: "Preview aplikasi Jadwal Belajar Pro",
     visual: "paper",
     githubUrl: "https://github.com/example/jadwal-belajar",

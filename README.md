@@ -13,7 +13,7 @@ Halaman utama dirancang dengan estetika bertema terminal cyberpunk, berfokus pad
 *   **Interactive CLI Playground**: Konsol terminal statis interaktif untuk menyalin command setup proyek sekolah.
 *   **Bento Grid Gallery & Live Clock**: Visualisasi galeri bento responsif dan penunjuk waktu live time zone developer (WIB diformat 24 jam).
 
-![Landing Page Desktop](portfolio/public/images/home-desktop-student-template-final.png)
+![Landing Page Desktop](https://raw.githubusercontent.com/zagoourai-hub/portfolio-template/master/portfolio/public/images/home-desktop-student-template-final.png)
 *(Tampilan Landing Page Portofolio Publik)*
 
 ---
@@ -29,7 +29,7 @@ Panel admin CMS yang didesain ulang dengan estetika **Horizon UI × Clean SaaS A
 
 | Desktop CMS Overview | Mobile CMS Login |
 |:---:|:---:|
-| ![Dashboard Desktop](portfolio/public/images/dashboard-desktop-overview.png) | ![Login Mobile](portfolio/public/images/dashboard-login-mobile.png) |
+| ![Dashboard Desktop](https://raw.githubusercontent.com/zagoourai-hub/portfolio-template/master/portfolio/public/images/dashboard-desktop-overview.png) | ![Login Mobile](https://raw.githubusercontent.com/zagoourai-hub/portfolio-template/master/portfolio/public/images/dashboard-login-mobile.png) |
 
 ---
 

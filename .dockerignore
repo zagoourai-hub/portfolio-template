@@ -1,0 +1,15 @@
+portfolio/node_modules
+portfolio/.next
+portfolio/.git
+portfolio/.env*
+!portfolio/.env.example
+portfolio/test-results
+portfolio/screenshots
+databases/*.db-journal
+databases/*.db-shm
+databases/*.db-wal
+.git
+.github
+*.log
+README.md
+docs/

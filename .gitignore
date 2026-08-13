@@ -1,0 +1,36 @@
+# Agent files
+.agents/
+.gemini/
+.env*
+
+# Databases (prevent committing dev SQLite db)
+databases/*.db
+databases/*.db-wal
+databases/*.db-shm
+databases/*.db-journal
+
+# Next.js and Node.js files
+portfolio/node_modules/
+portfolio/.next/
+portfolio/out/
+portfolio/build/
+portfolio/next-env.d.ts
+portfolio/*.tsbuildinfo
+
+# Test and visual regression artifacts
+portfolio/test-results/
+portfolio/playwright-report/
+portfolio/blob-report/
+portfolio/.playwright-cache/
+portfolio/screenshots/
+/screenshots/
+/test-results/
+/playwright-report/
+/.playwright-cache/
+/.playwright-mcp/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+.mcp.json
